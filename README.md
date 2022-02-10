@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MacLier
 - 👀 I’m interested in software- and webdevelopement.
 - 🌱 I’m currently learning NodeJS and Angular
-- 💞️ I’m looking to collaborate on validation, websecurity and personal privacy.
+- 💞️ I’m looking for collaboration on validation, websecurity and personal privacy.
 - 📫 You can send me an email at: szentivanyi.andras.viktor@gmail.com
 
 <!---
